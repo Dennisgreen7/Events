@@ -1,0 +1,7 @@
+c:\users\dennis\source\repos\Quest7\bin\Debug\Quest7.exe.config
+c:\users\dennis\source\repos\Quest7\bin\Debug\Quest7.exe
+c:\users\dennis\source\repos\Quest7\bin\Debug\Quest7.pdb
+c:\users\dennis\source\repos\Quest7\obj\Debug\Quest7.csprojAssemblyReference.cache
+c:\users\dennis\source\repos\Quest7\obj\Debug\Quest7.csproj.CoreCompileInputs.cache
+c:\users\dennis\source\repos\Quest7\obj\Debug\Quest7.exe
+c:\users\dennis\source\repos\Quest7\obj\Debug\Quest7.pdb
