@@ -1,0 +1,10 @@
+C:\Dot.Net\C# Advanced\Shior9\Quest1\bin\Debug\Quest1.exe.config
+C:\Dot.Net\C# Advanced\Shior9\Quest1\bin\Debug\Quest1.exe
+C:\Dot.Net\C# Advanced\Shior9\Quest1\bin\Debug\Quest1.pdb
+C:\Dot.Net\C# Advanced\Shior9\Quest1\obj\Debug\Quest1.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior9\Quest1\obj\Debug\Quest1.Form1.resources
+C:\Dot.Net\C# Advanced\Shior9\Quest1\obj\Debug\Quest1.Properties.Resources.resources
+C:\Dot.Net\C# Advanced\Shior9\Quest1\obj\Debug\Quest1.csproj.GenerateResource.cache
+C:\Dot.Net\C# Advanced\Shior9\Quest1\obj\Debug\Quest1.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior9\Quest1\obj\Debug\Quest1.exe
+C:\Dot.Net\C# Advanced\Shior9\Quest1\obj\Debug\Quest1.pdb
