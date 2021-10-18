@@ -12,7 +12,7 @@ namespace Quest5
 
         public Account(double balance)
         {
-            Balance = balance;
+            Balance += balance;
         }
     }
 }
